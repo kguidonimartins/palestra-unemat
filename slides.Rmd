@@ -4,14 +4,14 @@ title: |
 subtitle: |
     | Como uma rivalidade teórica nos ajuda a entender os padrões em comunidades ecológicas
 author: |
-    | Karlo Guidoni Martins
+    | Karlo Guidoni
 date: |
-    | 06 de Maio de 2021
+    | 08 de Abril de 2022
 fontsize: 10pt          # funciona com pdflatex. veja `latex_engine`
 classoption: "compress, aspectratio=169" # try 43 or 169
-mainfont: "Ubuntu Mono" # use Arial no Windows
-sansfont: "Ubuntu Mono" # use Arial no Windows
-monofont: "Ubuntu Mono" # use Arial no Windows
+mainfont: "UbuntuMono Nerd Font" # use Arial no Windows
+sansfont: "UbuntuMono Nerd Font" # use Arial no Windows
+monofont: "UbuntuMono Nerd Font" # use Arial no Windows
 output:
   beamer_presentation:
     df_print: kable
@@ -370,16 +370,20 @@ E ainda podemos (e devemos) explorar:
 
 - Estudos em múltiplas escalas temporais
 
-## UM FINAL
+## UM FINAL^[Legendre *et al.* 2005, *Ecological Monographs*]
 
 \small
 
-> "O gerenciamento adequado dos ecossistemas, que geralmente são vistos pelos inquilinos do neoliberalismo como recursos para a indústria, exige que entendamos os processos pelos quais a diversidade é criada e mantida. Se a diversidade for inteiramente o resultado de processos aleatórios contemporâneos e históricos, podemos pegar os recursos em qualquer lugar sem efeitos adversos, desde que não os esgotemos. Caso contrário, temos que preservar a organização espacial ou as relações espécie-ambiente necessárias para a natureza recriar e manter a diversidade."^[Legendre *et al.* 2005, *Ecological Monographs*]
+> "O gerenciamento adequado dos ecossistemas [...] exige que entendamos os processos pelos quais a diversidade é criada e mantida. Se a diversidade for inteiramente o resultado de __processos aleatórios__ contemporâneos e históricos, podemos pegar os recursos em qualquer lugar sem efeitos adversos, desde que não os esgotemos. Caso contrário, temos que preservar a __organização espacial ou as relações espécie-ambiente__ necessárias para a natureza recriar e manter a diversidade."
 
 
 ##  {.standout}
 
-Obrigado!
+Perguntas?
+
+\footnotesize
+
+\vspace{1cm} karloguidoni2\@gmail.com
 
 <!--INÍCIO: NOTAS TÉCNICAS------------------------------------------------------
 
